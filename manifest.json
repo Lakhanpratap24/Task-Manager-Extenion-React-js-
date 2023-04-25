@@ -1,0 +1,16 @@
+{
+  "name":"Tester",
+  "description:":"open ",
+  "version":"1.0",
+  "manifest_version":3,
+  "action":{
+    "default_title":"My Apps",
+    "default_popup":"index.html"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "64": "icon-64.png",
+    "128": "icon-128.png"
+  }
+}
